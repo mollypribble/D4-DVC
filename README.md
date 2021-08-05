@@ -1,9 +1,9 @@
 # D4-DVC
- This is just to test out Quilt D4 and DVC for managing remote data stores (on MacOS)
+###  This is just to test out Quilt D4 and DVC for managing remote data stores (on MacOS)
  
 # SET UP VENV
- python3 -m venv env
- source env/bin/activate
+#### python3 -m venv env
+####  source env/bin/activate
  
 # INSTALLATIONS
  conda install -c conda-forge quilt3
