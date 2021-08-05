@@ -39,7 +39,7 @@
 # DELETE FILE
 #### >> p
 ####   OUT: (local Package)
-####          &nbsp;&nbsp;&nbsp;└─data/
+####          └─data/
 ####             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─fav_fruit.csv
 ####             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─fav_veggies.csv
 #### >> q3.delete_data(p)
@@ -47,5 +47,5 @@
 ####   IN: fav_fruits.csv
 #### >> p
 ####   OUT: (local Package)
-####          &nbsp;&nbsp;&nbsp;└─data/
+####          └─data/
 ####             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─fav_veggies.csv
